@@ -1,0 +1,25 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "hexlet education project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanbogdv/hexlet-js.git"
+  },
+  "keywords": [
+    "hexlet",
+    "education",
+    "project"
+  ],
+  "author": "Ivan Bogdanov <ivan.bogdv@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanbogdv/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/ivanbogdv/hexlet-js#readme"
+}
