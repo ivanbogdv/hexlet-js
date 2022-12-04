@@ -24,5 +24,8 @@
   "homepage": "https://github.com/ivanbogdv/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.0"
   }
 }
